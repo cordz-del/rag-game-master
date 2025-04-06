@@ -1,0 +1,11 @@
+langchain
+llama-index
+openai
+transformers
+gradio
+faiss-cpu
+chroma
+tiktoken
+sentence-transformers
+numpy
+PyYAML
